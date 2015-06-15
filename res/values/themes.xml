@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.TV" parent="@android:style/Theme.Material.Light">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+</resources>
